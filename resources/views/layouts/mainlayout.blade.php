@@ -284,7 +284,7 @@
             </div> -->
         </a>
         
-        <a href="https://api.whatsapp.com/send?phone=+251911410121&amp;text=Hi" class="connect-icons" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=+2519&amp;text=Hi" class="connect-icons" target="_blank">
             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 25" style="enable-background:new 0 0 26 25;" xml:space="preserve">
                 <style type="text/css">.st0{fill:#333333;}</style>
                 <path class="st0" d="M20.7,4.8c-2.1-2.1-4.8-3.2-7.7-3.2C7,1.7,2.2,6.5,2.2,12.5c0,1.8,0.4,3.5,1.3,5.1l-1.2,5c-0.1,0.2,0,0.4,0.2,0.6c0.2,0.2,0.4,0.2,0.6,0.2l5-1.2c1.6,0.8,3.3,1.3,5.1,1.3c2.9,0,5.6-1.1,7.7-3.2c2.1-2.1,3.2-4.8,3.2-7.7S22.7,6.9,20.7,4.8z M13,22.1c-1.6,0-3.2-0.4-4.7-1.2c-0.1-0.1-0.3-0.1-0.5-0.1l-4.2,1l1-4.2c0-0.2,0-0.3-0.1-0.5c-0.8-1.4-1.2-3-1.2-4.7c0-5.3,4.3-9.6,9.6-9.6s9.6,4.3,9.6,9.6S18.3,22.1,13,22.1z"></path>
@@ -293,7 +293,8 @@
             WhatsApp
         </a>
         
-        <a href="https://pay.ellingtonproperties.ae" class="connect-icons" target="_blank" style="padding: 0;margin-bottom: -23px;">
+        <!-- <a href="https://pay.ellingtonproperties.ae" class="connect-icons" target="_blank" style="padding: 0;margin-bottom: -23px;"> -->
+        <a href="#" class="connect-icons" target="_blank" style="padding: 0;margin-bottom: -23px;">
             <table width="100%" align="center">
                 <tbody>
                     <tr>
