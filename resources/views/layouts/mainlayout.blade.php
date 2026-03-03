@@ -106,7 +106,7 @@
                         <i class="fs-60 id-color icon_phone"></i>
                         <div class="ms-3">
                             <h4 class="mb-0">Call Us</h4>
-                            <p>Call: +1 123 456 789</p>
+                            <p>Call: +251911422011</p>
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,8 @@
                         <i class="fs-60 id-color icon_clock"></i>
                         <div class="ms-3">
                             <h4 class="mb-0">Opening Hours</h4>
-                            <p>Mon to Sat 08:00 - 20:00</p>
+                            <p class="mb-0">Mon to Fri 08:00AM - 05:00PM</p>
+                            <p>Saturday 08:00AM - 01:00PM</p>
                         </div>
                     </div>
                 </div>
@@ -141,11 +142,11 @@
                         <h4 class="fs-16">
                             About Devita
                         </h4>
-                        <a class="fs-12 d-block">Our Story / Mission</a>
-                        <a class="fs-12 d-block">Leadership Team</a>
-                        <a class="fs-12 d-block">Careers / Work With Us</a>
-                        <a class="fs-12 d-block">Awards and Recognition</a>
-                        <a class="fs-12 d-block">Investor Relations</a>
+                        <a class="fs-12 d-block white-link">Our Story / Mission</a>
+                        <a class="fs-12 d-block white-link">Leadership Team</a>
+                        <a class="fs-12 d-block white-link">Careers / Work With Us</a>
+                        <a class="fs-12 d-block white-link">Awards and Recognition</a>
+                        <a class="fs-12 d-block white-link">Investor Relations</a>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 mb-sm-30">
@@ -153,16 +154,16 @@
                         <h4 class="fs-16">
                             Communities
                         </h4>
-                        <a class="fs-12 d-block">Studio Apartments</a>
-                        <a class="fs-12 d-block">Villas for Sale</a>
-                        <a class="fs-12 d-block">Luxury Homes</a>
-                        <a class="fs-12 d-block">Investment Properties</a>
-                        <a class="fs-12 d-block">Property Locations</a>
-                        <a class="fs-12 d-block">View All Projects</a>
-                        <a class="fs-12 d-block">Completed Projects</a>
-                        <a class="fs-12 d-block">Upcoming Developments</a>
-                        <a class="fs-12 d-block">Master Plans</a>
-                        <a class="fs-12 d-block">Neighborhood Guides</a>
+                        <a class="fs-12 d-block white-link">Studio Apartments</a>
+                        <a class="fs-12 d-block white-link">Villas for Sale</a>
+                        <a class="fs-12 d-block white-link">Luxury Homes</a>
+                        <a class="fs-12 d-block white-link">Investment Properties</a>
+                        <a class="fs-12 d-block white-link">Property Locations</a>
+                        <a class="fs-12 d-block white-link">View All Projects</a>
+                        <a class="fs-12 d-block white-link">Completed Projects</a>
+                        <a class="fs-12 d-block white-link">Upcoming Developments</a>
+                        <a class="fs-12 d-block white-link">Master Plans</a>
+                        <a class="fs-12 d-block white-link">Neighborhood Guides</a>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 mb-sm-30">
@@ -170,10 +171,10 @@
                         <h4 class="fs-16">
                             Latest Launches
                         </h4>
-                        <a class="fs-12 d-block">Newest Properties Available</a>
-                        <a class="fs-12 d-block">Pre-Registration for Future Launches</a>
-                        <a class="fs-12 d-block">Special Offers</a>
-                        <a class="fs-12 d-block">Virtual Tours</a>
+                        <a class="fs-12 d-block white-link">Newest Properties Available</a>
+                        <a class="fs-12 d-block white-link">Pre-Registration for Future Launches</a>
+                        <a class="fs-12 d-block white-link">Special Offers</a>
+                        <a class="fs-12 d-block white-link">Virtual Tours</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-sm-30">
@@ -181,10 +182,10 @@
                         <h4 class="fs-16">
                             Media Center
                         </h4>
-                        <a class="fs-12 d-block">Press Releases</a>
-                        <a class="fs-12 d-block">News and Announcements</a>
-                        <a class="fs-12 d-block">Image Gallery / Downloads</a>
-                        <a class="fs-12 d-block">In the News / Testimonials</a>
+                        <a class="fs-12 d-block white-link">Press Releases</a>
+                        <a class="fs-12 d-block white-link">News and Announcements</a>
+                        <a class="fs-12 d-block white-link">Image Gallery / Downloads</a>
+                        <a class="fs-12 d-block white-link">In the News / Testimonials</a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 mb-sm-30">
@@ -192,11 +193,11 @@
                         <h4 class="fs-16">
                             Help & Center
                         </h4>
-                        <a class="fs-12 d-block">Contact Us</a>
-                        <a class="fs-12 d-block">FAQs (Frequently Asked Questions)</a>
-                        <a class="fs-12 d-block">Customer Service Portal</a>
-                        <a class="fs-12 d-block">Warranty & Maintenance</a>
-                        <a class="fs-12 d-block">Submit a Query</a>
+                        <a class="fs-12 d-block white-link">Contact Us</a>
+                        <a class="fs-12 d-block white-link">FAQs (Frequently Asked Questions)</a>
+                        <a class="fs-12 d-block white-link">Customer Service Portal</a>
+                        <a class="fs-12 d-block white-link">Warranty & Maintenance</a>
+                        <a class="fs-12 d-block white-link">Submit a Query</a>
                     </div>
                 </div>
             </div>
@@ -236,7 +237,7 @@
             Enquire
         </a>
         
-        <a href="tel:+251911410121" class="connect-icons">
+        <a href="tel:+251911422011" class="connect-icons">
             <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 25">
                 <title>Call us</title>
                 <path id="handset" d="M6.63,15.05l.06.1.07.11C11,22,18.33,25.89,19.69,23.84l1.71-2.95a.78.78,0,0,0-.07-.83h0c-.24-.43-.46-.44-1.71-1.19-.65-.44-1.34-.92-1.79-1.28a1.23,1.23,0,0,0-1.45-.05l-.7.63a1.41,1.41,0,0,1-.91.33c-1,0-3-2.5-4-4-.3-.43-.54-.8-.68-1s-.37-.6-.63-1C8.5,10.78,7.13,8,7.62,7.24A1.17,1.17,0,0,1,8.4,6.7l.95-.24A1,1,0,0,0,10,5.32C9.91,4.77,9.81,4,9.72,3.25c-.08-1.35,0-1.53-.27-1.93h0A1,1,0,0,0,8.67.85L5,.63C2.33.65,2.39,8.35,6.63,15.05Z" style="fill:none;stroke:#333333;stroke-miterlimit:10"></path>
@@ -284,7 +285,7 @@
             </div> -->
         </a>
         
-        <a href="https://api.whatsapp.com/send?phone=+2519&amp;text=Hi" class="connect-icons" target="_blank">
+        <a href="https://api.whatsapp.com/send?phone=+251911410121&amp;text=Hi" class="connect-icons" target="_blank">
             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26 25" style="enable-background:new 0 0 26 25;" xml:space="preserve">
                 <style type="text/css">.st0{fill:#333333;}</style>
                 <path class="st0" d="M20.7,4.8c-2.1-2.1-4.8-3.2-7.7-3.2C7,1.7,2.2,6.5,2.2,12.5c0,1.8,0.4,3.5,1.3,5.1l-1.2,5c-0.1,0.2,0,0.4,0.2,0.6c0.2,0.2,0.4,0.2,0.6,0.2l5-1.2c1.6,0.8,3.3,1.3,5.1,1.3c2.9,0,5.6-1.1,7.7-3.2c2.1-2.1,3.2-4.8,3.2-7.7S22.7,6.9,20.7,4.8z M13,22.1c-1.6,0-3.2-0.4-4.7-1.2c-0.1-0.1-0.3-0.1-0.5-0.1l-4.2,1l1-4.2c0-0.2,0-0.3-0.1-0.5c-0.8-1.4-1.2-3-1.2-4.7c0-5.3,4.3-9.6,9.6-9.6s9.6,4.3,9.6,9.6S18.3,22.1,13,22.1z"></path>
@@ -294,7 +295,7 @@
         </a>
         
         <!-- <a href="https://pay.ellingtonproperties.ae" class="connect-icons" target="_blank" style="padding: 0;margin-bottom: -23px;"> -->
-        <a href="#" class="connect-icons" target="_blank" style="padding: 0;margin-bottom: -23px;">
+        <a href="https://cbeib.cbe.com.et" class="connect-icons" target="_blank" style="padding: 0;margin-bottom: -23px;">
             <table width="100%" align="center">
                 <tbody>
                     <tr>

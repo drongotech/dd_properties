@@ -159,6 +159,11 @@ a:hover {
   color:var(--body-font-color);
   text-decoration: none;
   outline: none;
+  cursor: pointer;
+}
+
+a.white-link:hover {
+  color: #FFF !important
 }
 
 .dark-scheme a,
