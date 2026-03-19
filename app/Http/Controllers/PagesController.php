@@ -56,5 +56,15 @@ class PagesController extends Controller
         ];
         
         return view('homepage.contact')->with($pageData);
-    }    
+    }
+
+    public function project()
+    {
+        $pageData = [
+            'pageTitle' => 'Project — Devita Properties',
+            'pageCode' => 'Project',
+        ];
+        
+        return view('homepage.project')->with($pageData);
+    }
 }

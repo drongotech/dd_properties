@@ -8,12 +8,14 @@
         <div class="abs w-80 bottom-10 z-2 w-100">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-8">
                         <h1 class="fs-120 text-uppercase fs-sm-10vw mb-4 lh-1">Devita Properties</h1>
+                        <h3 class=text-uppercase>Where Ethiopian heritage meets contemporary elegance</h3>
                         <div class="d-flex align-items-center">
-                            <h4 class="fw-500 mb-0 me-4">Namibia Street, Bole, Addis Ababa, Ethiopia</h4>
-                            <a class="btn-main btn-line fx-slide py-0 lh-1-6 fw-400 " href="#"><span>View on Map</span></a>
+                            <!-- <h4 class="fw-500 mb-0 me-4">Namibia Street, Bole, Addis Ababa, Ethiopia</h4> -->
+                            <a class="btn-main btn-line fx-slide py-1 lh-1-6 fw-400 mt-2 " href="#"><span>Explore Our Projects</span></a>
                         </div>
+                        <span>&nbsp;</span>
                     </div>
                 </div>
             </div>
@@ -102,55 +104,71 @@
         <div class="container relative z-2">
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-12 text-center">
-                    <h3 class="wow fadeInUp" data-wow-delay=".2s">Featured real estate properties in Addis Ababa</h3>
-                    <p>Our properties span from the iconic fronds of Palm Jumeirah to Dubai Hills and the serene shores of Ras Al Khaimah. Discover the variety and quality of our developments in the curated selection below.</p>
+                    <h3 class="wow fadeInUp" data-wow-delay=".2s">Featured real estate projects in Addis Ababa</h3>
+                    <p>Discover exceptional living spaces crafted with intention and designed for those who appreciate the finer things in life.</p>
                 </div>
             </div>
 
-            <div class="row g-4">
+            <div class="row g-4 text-white">
                 <div class="col-md-6">
                     <div class="hover overflow-hidden relative text-light text-center wow zoomIn" data-wow-delay=".0s">
                         <div class="wow scaleIn overflow-hidden">
                             <img src="images/apartment/1.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="{{route('project')}}"><span>View Project</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
-                        <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
-                            <div class="d-flex justify-content-between align-items-center">
-                                <h3 class="mb-0">Property #1</h3>
+                        <div class="abs z-2 top-0 p-30 w-100 hover-op-0" style="text-align: left;">
+                            <div class="bg-dark px-3 py-2 d-inline-block">
+                                <p class="text-left mb-0 text-white" style="line-height: 1.4; font-size: 15px; font-weight: 300;">NOW SELLING</p>
                             </div>
                         </div>
-                        <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
+                        <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
+                            
+                            <p class="text-left mb-2 text-white" style="text-align: left; line-height: 1.4; font-weight: 250;">Bole, Addis Ababa</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <h3 class="mb-2">The Mandevilla</h3>
+                            </div>
+                            <p class="text-left text-white" style="text-align: left; line-height: 1.4; font-weight: 250;">A collection of 24 meticulously designed luxury residences offering unparalleled elegance in the heart of Ethiopia's capital.</p>
+                            <p class="text-left mb-0" style="text-align: left; line-height: 1.4; font-weight: 250;">24 Exclusive Residences</p>
+                        </div>
+                        <div class="gradient-edge-bottom abs w-100 h-60 bottom-0"></div>
                     </div>
                 </div>
-
                 <div class="col-md-6">
                     <div class="hover overflow-hidden relative text-light text-center wow zoomIn" data-wow-delay=".0s">
                         <div class="wow scaleIn overflow-hidden">
-                            <img src="images/apartment/2.jpg" class="hover-scale-1-1 w-100" alt="">
+                            <img src="images/apartment/1.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href=""><span>Register Interest</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
-                        <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
-                            <div class="d-flex justify-content-between align-items-center">
-                                <h3 class="mb-0">Property #2</h3>
+                        <div class="abs z-2 top-0 p-30 w-100 hover-op-0" style="text-align: left;">
+                            <div class="bg-dark px-3 py-2 d-inline-block">
+                                <p class="text-left mb-0 text-white" style="line-height: 1.4; font-size: 15px; font-weight: 300;">COMING SOON</p>
                             </div>
                         </div>
-                        <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
+                        <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
+                            
+                            <p class="text-left mb-2 text-white" style="text-align: left; line-height: 1.4; font-weight: 250;">Coming Soon</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <h3 class="mb-2">Al Aperto</h3>
+                            </div>
+                            <p class="text-left text-white" style="text-align: left; line-height: 1.4; font-weight: 250;">An exclusive new development by De Vita Properties. Register your interest to be the first to know when details are announced.</p>
+                        </div>
+                        <div class="gradient-edge-bottom abs w-100 h-60 bottom-0"></div>
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     <div class="hover overflow-hidden relative text-light text-center wow zoomIn h-100" data-wow-delay=".0s">
                         <div class="wow scaleIn overflow-hidden h-100">
                             <img src="images/apartment/3.jpg" class="hover-scale-1-1 w-100 h-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Project</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -158,7 +176,7 @@
                                 <h3 class="mb-0">Property #3</h3>
                             </div>
                         </div>
-                        <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
+                        <div class="gradient-edge-bottom abs w-100 h-60 bottom-0"></div>
                     </div>
                 </div>
 
@@ -168,7 +186,7 @@
                             <img src="images/apartment/4.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Project</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -176,7 +194,7 @@
                                 <h3 class="mb-0">Property #4</h3>
                             </div>
                         </div>
-                        <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
+                        <div class="gradient-edge-bottom abs w-100 h-60 bottom-0"></div>
                     </div>
                 </div>
 
@@ -186,7 +204,7 @@
                             <img src="images/apartment/5.jpg" class="hover-scale-1-1 w-100 h-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Project</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -194,13 +212,13 @@
                                 <h3 class="mb-0">Property #5</h3>
                             </div>
                         </div>
-                        <div class="gradient-edge-bottom abs w-100 h-40 bottom-0"></div>
+                        <div class="gradient-edge-bottom abs w-100 h-60 bottom-0"></div>
                     </div>
-                </div>
+                </div> -->
                 
                 <div class="col-md-5"></div>
                 <div class="col-md-2">
-                    <a class="btn-main fx-slide" href="02_apartment-contact.html"><span>View Properties</span></a>
+                    <a class="btn-main fx-slide" href="02_apartment-contact.html"><span>More Projects</span></a>
                 </div>
                 <div class="col-md-5"></div>
             </div>

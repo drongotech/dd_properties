@@ -67,6 +67,7 @@
                                     <li><a class="menu-item" href="{{route('home')}}">About Us</a></li>
                                     <li><a class="menu-item" href="{{route('home')}}">NEWS</a></li>
                                     <li><a class="menu-item" href="{{route('home')}}">Contact</a></li>
+                                    <li><a class="menu-item" href="{{route('login')}}">Member Access</a></li>
                                 </ul>
                                 <div class="menu_side_area">          
                                     <!-- <a href="#" class="btn-main btn-line bg-blur fx-slide sm-hide"><span>Schedule a Visit</span></a> -->

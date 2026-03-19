@@ -4089,7 +4089,7 @@ ul.cols-2{
   font-family: "FontAwesome";
   content: "\f00c";
   margin-right: 15px;
-  color:var(--primary-color);
+  color:var(--bg-dark-1);
 }
 
 .ul-check.white li:before{
@@ -12798,4 +12798,7 @@ img {
     margin-left: auto;
     width: auto;
   }
+}
+a.colored-btn::before {
+  color: var(--bg-dark-1) !important;
 }
