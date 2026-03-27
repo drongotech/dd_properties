@@ -748,7 +748,7 @@ header.smaller #mainmenu>li::before{
   position: relative;
   display: inline-block;
   padding-top: 25px;
-  padding-bottom: 25px;
+  padding-bottom: 10px;
   text-decoration: none;
   color: #ffffff;
   text-align: center;
@@ -12091,6 +12091,10 @@ img {
   header.header-mobile #mainmenu li ul {
     border-top: none;
     top: auto;
+  }
+
+  .mainmenu-end {
+    display: none !important;
   }
 
   header.header-mobile #mainmenu li ul a.menu-item {

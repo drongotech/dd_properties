@@ -63,7 +63,7 @@
                                 <a href="{{route('home')}}"><img src="images/footer-logo.svg" style="width:110px;" alt="" ></a>
                             </div>
                             <div class="col-end">
-                                <ul id="mainmenu">
+                                <ul id="mainmenu" class="mainmenu-end">
                                     <li><a class="menu-item" href="{{route('home')}}">About Us</a></li>
                                     <li><a class="menu-item" href="{{route('home')}}">NEWS</a></li>
                                     <li><a class="menu-item" href="{{route('home')}}">Contact</a></li>
