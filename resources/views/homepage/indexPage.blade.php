@@ -634,7 +634,7 @@
         </div>
     </section>
 
-    <section class="relative">
+    <!-- <section class="relative">
         <div class="container relative z-2">
             <div class="row g-4">
                 <div class="col-md-6">
@@ -734,7 +734,7 @@
                 <div class="col-md-5"></div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="bg-color-op-1">
         <div class="container relative z-2">
