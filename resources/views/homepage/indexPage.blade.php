@@ -125,12 +125,11 @@
                             </div>
                         </div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
-                            
-                            <p class="text-left mb-2 text-white" style="text-align: left; line-height: 1.4; font-weight: 250;">Bole, Addis Ababa</p>
+                            <p class="text-left mb-2 text-white d-none d-md-block" style="text-align: left; line-height: 1.4; font-weight: 250;">Bole, Addis Ababa</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <h3 class="mb-2">The Mandevilla</h3>
                             </div>
-                            <p class="text-left text-white" style="text-align: left; line-height: 1.4; font-weight: 250;">A collection of 24 meticulously designed luxury residences offering unparalleled elegance in the heart of Ethiopia's capital.</p>
+                            <p class="text-left text-white ellipsis-multiline" style="text-align: left; line-height: 1.4; font-weight: 250;">A collection of 24 meticulously designed luxury residences offering unparalleled elegance in the heart of Ethiopia's capital.</p>
                             <p class="text-left mb-0" style="text-align: left; line-height: 1.4; font-weight: 250;">24 Exclusive Residences</p>
                         </div>
                         <div class="gradient-edge-bottom abs w-100 h-60 bottom-0"></div>
@@ -151,12 +150,11 @@
                             </div>
                         </div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
-                            
-                            <p class="text-left mb-2 text-white" style="text-align: left; line-height: 1.4; font-weight: 250;">Coming Soon</p>
+                            <p class="text-left mb-2 text-white d-none d-md-block" style="text-align: left; line-height: 1.4; font-weight: 250;">Coming Soon</p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <h3 class="mb-2">Al Aperto</h3>
                             </div>
-                            <p class="text-left text-white" style="text-align: left; line-height: 1.4; font-weight: 250;">An exclusive new development by De Vita Properties. Register your interest to be the first to know when details are announced.</p>
+                            <p class="text-left text-white ellipsis-multiline" style="text-align: left; line-height: 1.4; font-weight: 250;">An exclusive new development by De Vita Properties. Register your interest to be the first to know when details are announced.</p>
                         </div>
                         <div class="gradient-edge-bottom abs w-100 h-60 bottom-0"></div>
                     </div>

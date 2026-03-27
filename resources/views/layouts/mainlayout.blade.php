@@ -44,17 +44,17 @@
                                 <ul id="mainmenu">
                                     <li><a class="menu-item" href="{{route('home')}}">Home</a></li>
                                     <li class="menu-item-has-children has-child">
-                                        <a class="menu-item" href="">Devita Collections</a><span></span>
+                                        <a class="menu-item" href="{{route('project')}}">Devita Collections</a><span></span>
                                         <ul>
-                                            <li><a class="menu-item" href="">Devita Properties</a></li>
-                                            <li><a class="menu-item" href="">Devita Villas</a></li>
+                                            <li><a class="menu-item" href="{{route('project')}}">The Mandevilla</a></li>
+                                            <li><a class="menu-item" href="{{route('project')}}">Al Aperto</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children has-child">
-                                        <a class="menu-item" href="">Communities</a><span></span>
+                                        <a class="menu-item" href="{{route('project')}}">Communities</a><span></span>
                                         <ul>
-                                            <li><a class="menu-item" href="">Community #1</a></li>
-                                            <li><a class="menu-item" href="">Community #2</a></li>
+                                            <li><a class="menu-item" href="{{route('project')}}">The Mandevilla</a></li>
+                                            <li><a class="menu-item" href="{{route('project')}}">Al Aperto</a></li>
                                         </ul>
                                     </li>
                                 </ul>

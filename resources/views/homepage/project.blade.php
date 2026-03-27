@@ -20,7 +20,7 @@
                                     <span class="ms-2">Bole, Addis Ababa</span>
                                     <span><i class="ms-3 fa fa-building"></i></span>
                                     <span class="ms-2">24 Residences</span>
-                                    <span><i class="ms-3 fa fa-layer-group"></i></span>
+                                    <span><i class="ms-0 ms-md-3 fa fa-layer-group"></i></span>
                                     <span class="ms-2">6 Floors</span>
                                 </h4>
                             </div>
