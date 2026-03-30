@@ -33,4 +33,8 @@ Route::middleware([
     Route::get('/dashboard', function () {
         return view('dashboard');
     })->name('dashboard');
+    
+    Route::get('/payment_receipts', function () {
+        return view('payment_receipts');
+    })->name('payment_receipts');
 });

@@ -20,7 +20,7 @@
                                     <span class="ms-2">Bole, Addis Ababa</span>
                                     <span><i class="ms-3 fa fa-building"></i></span>
                                     <span class="ms-2">24 Residences</span>
-                                    <span><i class="ms-0 ms-md-3 fa fa-layer-group"></i></span>
+                                    <span><i class="ms-0 ms-sm-3 fa fa-layer-group"></i></span>
                                     <span class="ms-2">6 Floors</span>
                                 </h4>
                             </div>
@@ -261,7 +261,7 @@
                             <img src="images/apartment/1.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>View Details</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -280,7 +280,7 @@
                             <img src="images/apartment/2.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>View Details</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -299,7 +299,7 @@
                             <img src="images/apartment/3.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>View Details</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -318,7 +318,7 @@
                             <img src="images/apartment/4.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>View Details</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -337,7 +337,7 @@
                             <img src="images/apartment/5.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>View Details</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -356,7 +356,7 @@
                             <img src="images/apartment/6.jpg" class="hover-scale-1-1 w-100" alt="">
                         </div>
                         <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                            <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                            <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>View Details</span></a>
                         </div>
                         <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                         <div class="abs z-2 bottom-0 p-30 w-100 text-center hover-op-0">
@@ -512,7 +512,7 @@
                                         <img src="images/apartment/1.jpg" class="hover-scale-1-1 w-100" alt="">
                                     </div>
                                     <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                                        <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                                        <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>Register To View</span></a>
                                     </div>
                                     <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                                     <div class="abs z-2 top-0 p-30 w-100 hover-op-0 justify-content-between align-items-end" style="display: flex; justify-content: space-between; align-items: end; text-align: left; gap: 10px;">
@@ -544,7 +544,7 @@
                                         <img src="images/apartment/2.jpg" class="hover-scale-1-1 w-100" alt="">
                                     </div>
                                     <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                                        <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                                        <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>Register To View</span></a>
                                     </div>
                                     <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                                     <div class="abs z-2 top-0 p-30 w-100 hover-op-0 justify-content-between align-items-end" style="display: flex; justify-content: space-between; align-items: end; text-align: left; gap: 10px;">
@@ -576,7 +576,7 @@
                                         <img src="images/apartment/3.jpg" class="hover-scale-1-1 w-100" alt="">
                                     </div>
                                     <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                                        <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                                        <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>Register To View</span></a>
                                     </div>
                                     <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                                     <div class="abs z-2 top-0 p-30 w-100 hover-op-0 justify-content-between align-items-end" style="display: flex; justify-content: space-between; align-items: end; text-align: left; gap: 10px;">
@@ -608,7 +608,7 @@
                                         <img src="images/apartment/4.jpg" class="hover-scale-1-1 w-100" alt="">
                                     </div>
                                     <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                                        <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                                        <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>Register To View</span></a>
                                     </div>
                                     <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                                     <div class="abs z-2 top-0 p-30 w-100 hover-op-0 justify-content-between align-items-end" style="display: flex; justify-content: space-between; align-items: end; text-align: left; gap: 10px;">
@@ -640,7 +640,7 @@
                                         <img src="images/apartment/5.jpg" class="hover-scale-1-1 w-100" alt="">
                                     </div>
                                     <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                                        <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                                        <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>Register To View</span></a>
                                     </div>
                                     <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                                     <div class="abs z-2 top-0 p-30 w-100 hover-op-0 justify-content-between align-items-end" style="display: flex; justify-content: space-between; align-items: end; text-align: left; gap: 10px;">
@@ -672,7 +672,7 @@
                                         <img src="images/apartment/6.jpg" class="hover-scale-1-1 w-100" alt="">
                                     </div>
                                     <div class="abs w-100 px-4 hover-op-1 z-4 hover-mt-40 abs-centered">
-                                        <a class="btn-main btn-line fx-slide" href="02_apartment-room-single.html"><span>View Details</span></a>
+                                        <a class="btn-main btn-line fx-slide" href="{{ route('register') }}"><span>Register To View</span></a>
                                     </div>
                                     <div class="abs bg-blur z-2 top-0 w-100 h-100 hover-op-1"></div>
                                     <div class="abs z-2 top-0 p-30 w-100 hover-op-0 justify-content-between align-items-end" style="display: flex; justify-content: space-between; align-items: end; text-align: left; gap: 10px;">

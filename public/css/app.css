@@ -1189,6 +1189,9 @@ input:where([type='file']):focus {
 .col-span-6 {
   grid-column: span 6 / span 6;
 }
+.m-0 {
+  margin: 0px;
+}
 .m-4 {
   margin: 1rem;
 }
@@ -1259,6 +1262,12 @@ input:where([type='file']):focus {
 }
 .mr-3 {
   margin-right: 0.75rem;
+}
+.ms-0 {
+  margin-inline-start: 0px;
+}
+.ms-2 {
+  margin-inline-start: 0.5rem;
 }
 .ms-3 {
   margin-inline-start: 0.75rem;
@@ -1334,6 +1343,9 @@ input:where([type='file']):focus {
 }
 .h-6 {
   height: 1.5rem;
+}
+.h-60 {
+  height: 15rem;
 }
 .h-8 {
   height: 2rem;
@@ -1566,9 +1578,6 @@ input:where([type='file']):focus {
 .border-l-4 {
   border-left-width: 4px;
 }
-.border-r {
-  border-right-width: 1px;
-}
 .border-t {
   border-top-width: 1px;
 }
@@ -1583,10 +1592,6 @@ input:where([type='file']):focus {
 .border-gray-300 {
   --tw-border-opacity: 1;
   border-color: rgb(209 213 219 / var(--tw-border-opacity, 1));
-}
-.border-gray-400 {
-  --tw-border-opacity: 1;
-  border-color: rgb(156 163 175 / var(--tw-border-opacity, 1));
 }
 .border-indigo-400 {
   --tw-border-opacity: 1;
@@ -1662,8 +1667,17 @@ input:where([type='file']):focus {
 .p-0 {
   padding: 0px;
 }
+.p-1 {
+  padding: 0.25rem;
+}
 .p-2 {
   padding: 0.5rem;
+}
+.p-4 {
+  padding: 1rem;
+}
+.p-5 {
+  padding: 1.25rem;
 }
 .p-6 {
   padding: 1.5rem;
@@ -1687,10 +1701,6 @@ input:where([type='file']):focus {
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-}
-.py-0 {
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
 .py-1 {
   padding-top: 0.25rem;
@@ -1734,6 +1744,9 @@ input:where([type='file']):focus {
 .pb-1 {
   padding-bottom: 0.25rem;
 }
+.pb-2 {
+  padding-bottom: 0.5rem;
+}
 .pb-3 {
   padding-bottom: 0.75rem;
 }
@@ -1743,6 +1756,9 @@ input:where([type='file']):focus {
 .pb-5 {
   padding-bottom: 1.25rem;
 }
+.pe-3 {
+  padding-inline-end: 0.75rem;
+}
 .pe-5 {
   padding-inline-end: 1.25rem;
 }
@@ -1751,6 +1767,9 @@ input:where([type='file']):focus {
 }
 .pr-4 {
   padding-right: 1rem;
+}
+.ps-5 {
+  padding-inline-start: 1.25rem;
 }
 .pt-1 {
   padding-top: 0.25rem;
@@ -1832,9 +1851,6 @@ input:where([type='file']):focus {
 }
 .leading-tight {
   line-height: 1.25;
-}
-.tracking-wider {
-  letter-spacing: 0.05em;
 }
 .tracking-widest {
   letter-spacing: 0.1em;
